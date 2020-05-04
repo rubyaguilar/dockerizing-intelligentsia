@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588615420098.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1702924167",
+    "id" : "899A64AF",
+    "lastKnownWriteTime" : 1588575725,
+    "last_content_update" : 1588575725,
+    "path" : "~/LocalCode/shiny-intelligentsia/intelligentsia/ui.R",
+    "project_path" : "intelligentsia/ui.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

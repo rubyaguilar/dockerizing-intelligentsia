@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588614546764.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "957164147",
+    "id" : "F134B22",
+    "lastKnownWriteTime" : 1588615393,
+    "last_content_update" : 1588615393382,
+    "path" : "~/LocalCode/shiny-intelligentsia/intelligentsia/runApp.R",
+    "project_path" : "intelligentsia/runApp.R",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
