@@ -55,7 +55,7 @@ RUN R -e "install.packages('gdal')"
 COPY shiny-intelligentsia.Rproj /srv/shiny-server/
 COPY app /srv/shiny-server/
 
-# Make the ShinyApp available at port 80
+# Make the ShinyApp available at port 3838
 EXPOSE 3838
 
 RUN ["chmod", "+x", "/usr/bin/shiny-server.sh"]
