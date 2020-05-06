@@ -58,6 +58,8 @@ COPY app /srv/shiny-server/
 # Make the ShinyApp available at port 3838
 EXPOSE 3838
 
+#change permissions 
 RUN ["chmod", "+x", "/usr/bin/shiny-server.sh"]
 
+#run
 CMD ["/usr/bin/shiny-server.sh"]
